@@ -2,7 +2,7 @@
 
 ## Скриншот админ-панели
 
-![Скриншот админ-панели](screenshots/zabbix_dashboard.png)
+<img src="screenshots/zabbix_dashboard.png" alt="Скриншот админ-панели" width="600"/>
 
 **Информация об авторизации в админке:**
 - Логин: Admin
@@ -12,7 +12,7 @@
 
 ## Общая доска (Global view)
 
-![Общая доска Zabbix](screenshots/zabbix_dashboard.png)
+<img src="screenshots/zabbix_dashboard.png" alt="Общая доска Zabbix" width="600"/>
 
 **Комментарий к общей доске:**
 - На общей доске отображается системная информация и статус мониторинга
