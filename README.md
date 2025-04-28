@@ -20,7 +20,7 @@
 
 ## Подключенные хосты
 
-![Список хостов в Zabbix](screenshots/zabbix_hosts.png)
+![Список хостов в Zabbix](screenshots/conect_2vm.png)
 
 **Подключенные виртуальные машины:**
 - vm1 (127.0.0.1:10050)
@@ -31,7 +31,7 @@
 
 ### VM1 - Статистика CPU
 
-![Статистика CPU VM1](screenshots/vm1_stats.png)
+![Статистика CPU VM1](screenshots/vm1.png)
 
 **Показатели VM1:**
 - CPU jumps: отображает количество переключений контекста и прерываний в секунду
@@ -39,7 +39,7 @@
 
 ### VM2 - Статистика CPU
 
-![Статистика CPU VM2](screenshots/vm2_stats.png)
+![Статистика CPU VM2](screenshots/vm2.png)
 
 **Показатели VM2:**
 - CPU jumps: отображает количество переключений контекста и прерываний в секунду
